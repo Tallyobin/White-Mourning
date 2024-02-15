@@ -3,114 +3,73 @@
 
 
 
-<ul>
-   <li><a href="https://www.curseforge.com/members/insane96/projects" target="_blank"></a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
+```
+https://www.curseforge.com/members/reijvi/projects
+https://www.curseforge.com/members/xalixilax/projects
+https://www.curseforge.com/members/voidomon/projects
+https://www.curseforge.com/members/liahim85/projects
+https://www.curseforge.com/members/stormdragn77/projects
+https://www.curseforge.com/members/larsmans/projects
+https://www.curseforge.com/members/devuprojects/projects
+https://www.curseforge.com/members/wenan_studios/projects
+https://www.curseforge.com/members/tinydaggsy/projects
+https://www.curseforge.com/members/sisculog/projects
+https://www.curseforge.com/members/xalixilax/projects
+https://www.curseforge.com/members/shsupercm/projects
+https://www.curseforge.com/members/insane96/projects
+https://www.curseforge.com/members/tfarecnim/projects
+https://www.curseforge.com/members/maxhyper/projects
+https://www.curseforge.com/members/p3pp3rf1y/projects
+https://www.curseforge.com/members/cmdrmcnuggets/projects
+https://www.curseforge.com/members/the_infamous_1/projects
+https://www.curseforge.com/members/chronos_sacaria/projects
 
+https://www.reddit.com/r/Minecraft/comments/82lprw/just_a_quick_elytra_texture_in_the_style_of_the/
 
+https://www.mediafire.com/file/3byczn7o9cgtm75/Phantom+Elytra.zip
 
+https://www.planetminecraft.com/member/gouchnox/submissions
+https://www.planetminecraft.com/member/careeoki/submissions
+https://www.planetminecraft.com/member/fabichgm_arts/submissions
+https://www.planetminecraft.com/member/kacpro/submissions
 
-<ul>
-   <li><a href="https://www.curseforge.com/members/tfarecnim/projects" target="_blank"></a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/maxhyper/projects" target="_blank"></a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/p3pp3rf1y/projects" target="_blank"></a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/cmdrmcnuggets/projects" target="_blank">CmdrMCNuggets</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/the_infamous_1/projects" target="_blank">the_infamous_1</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/chronos_sacaria/projects" target="_blank">chronos_sacaria</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="" target="_blank"></a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/kryqu/projects" target="_blank">Kryqu</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/vanilla-exp" target="_blank">Vanilla Experience+</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
+https://vanillatweaks.net/
+Different Stems
+Colorful Enchanting Table Particles
+Unique Dyes
+Animated Campfire Items
+Circular Sun and Moon
+Circular Log Tops
+Variated Coarse Dirt
+Variated Grass
+Variated Cobblestone
+Variated Moss
+Variated Red Mushroom Blocks
+Variated Gravel
+Variated Mycelium
+Variated Bookshelves
+Diminising Tools
+Visual Infested Stone (Items)
+Visual Waxed Copper (Items)
+Clear Banner Patterns
+Sticky Piston Sides
+Visual Honey Stages
+Visual Note Block Pitch
+Lower Fire
+Lower Shield
+Translucent Pumpkin Overlay
+Smoother Font
+Redstone Wire Fix
+Big Dripleaf Stem Fix
+Small Dripleaf Stem Fix
+Pixel Consistent Beacon Beam
+Proper Break Particles (only chests)
+Don't Eat the Bowl!
+Iron Bars Fix
+Cloud Fog Fix
+Hopper Bottom Fix
+Tuxedo Cat Fix
+```
 
 
 
