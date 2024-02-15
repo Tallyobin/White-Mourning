@@ -4,11 +4,11 @@
 
 
 <ul>
-   <li><a href="https://www.planetminecraft.com/member/_bumbee/" target="_blank">_Bumbee</a></li>
+   <li><a href="https://www.curseforge.com/members/insane96/projects" target="_blank"></a></li>
    <ul>
       <li>Mods</li>
       <ul>
-         <li><a href="https://www.planetminecraft.com/texture-pack/revamped-armor/" target="_blank">Revamped Armor</a></li>
+         <li><a href="" target="_blank"></a></li>
       </ul>
    </ul>
 </ul>
@@ -18,11 +18,39 @@
 
 
 <ul>
-   <li><a href="https://www.curseforge.com/members/kiwiarg/projects" target="_blank">kiwiarg</a></li>
+   <li><a href="https://www.curseforge.com/members/tfarecnim/projects" target="_blank"></a></li>
    <ul>
-      <li>Resource Packs</li>
+      <li>Mods</li>
       <ul>
-         <li><a href="https://www.curseforge.com/minecraft/texture-packs/sleeping-mobs-datapack" target="_blank">sleeping mobs DTP</a></li>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/maxhyper/projects" target="_blank"></a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/p3pp3rf1y/projects" target="_blank"></a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="" target="_blank"></a></li>
       </ul>
    </ul>
 </ul>
@@ -65,6 +93,48 @@
       <li>Mods</li>
       <ul>
          <li><a href="" target="_blank"></a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/kryqu/projects" target="_blank">Kryqu</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/vanilla-exp" target="_blank">Vanilla Experience+</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.planetminecraft.com/member/_bumbee/" target="_blank">_Bumbee</a></li>
+   <ul>
+      <li>Mods</li>
+      <ul>
+         <li><a href="https://www.planetminecraft.com/texture-pack/revamped-armor/" target="_blank">Revamped Armor</a></li>
+      </ul>
+   </ul>
+</ul>
+<br>
+
+
+
+
+<ul>
+   <li><a href="https://www.curseforge.com/members/kiwiarg/projects" target="_blank">kiwiarg</a></li>
+   <ul>
+      <li>Resource Packs</li>
+      <ul>
+         <li><a href="https://www.curseforge.com/minecraft/texture-packs/sleeping-mobs-datapack" target="_blank">sleeping mobs DTP</a></li>
       </ul>
    </ul>
 </ul>
@@ -906,20 +976,6 @@
       <li>Mods</li>
       <ul>
          <li><a href="https://www.curseforge.com/minecraft/mc-mods/soul-fired" target="_blank">Soul fire'd</a></li>
-      </ul>
-   </ul>
-</ul>
-<br>
-
-
-
-
-<ul>
-   <li><a href="https://www.curseforge.com/members/nyfaria/projects" target="_blank">Nyfaria</a></li>
-   <ul>
-      <li>Mods</li>
-      <ul>
-         <li><a href="https://www.curseforge.com/minecraft/mc-mods/nyfs-spiders" target="_blank">Nyf's Spiders</a></li>
       </ul>
    </ul>
 </ul>
