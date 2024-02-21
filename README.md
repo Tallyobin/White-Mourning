@@ -23,6 +23,7 @@ https://www.curseforge.com/members/p3pp3rf1y/projects
 https://www.curseforge.com/members/cmdrmcnuggets/projects
 https://www.curseforge.com/members/the_infamous_1/projects
 https://www.curseforge.com/members/chronos_sacaria/projects
+https://www.curseforge.com/members/moonflowerteam/projects
 
 https://www.reddit.com/r/Minecraft/comments/82lprw/just_a_quick_elytra_texture_in_the_style_of_the/
 
