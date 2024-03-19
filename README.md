@@ -27,6 +27,10 @@ https://www.curseforge.com/members/moonflowerteam/projects
 https://www.curseforge.com/members/tage/projects
 https://www.curseforge.com/members/_x1sh_/projects
 https://www.curseforge.com/members/tictim/projects
+https://www.curseforge.com/members/farcr/projects
+https://www.curseforge.com/members/frikinjay/projects
+
+https://modrinth.com/user/Eveee_cx
 
 https://www.reddit.com/r/Minecraft/comments/82lprw/just_a_quick_elytra_texture_in_the_style_of_the/
 
